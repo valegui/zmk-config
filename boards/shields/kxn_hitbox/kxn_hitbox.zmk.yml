@@ -4,6 +4,6 @@ name: KXN Hitbox
 type: shield
 url: https://github.com/valegui
 requires:
-  - adafruit_feather_nrf52840
+  - nice_nano_v2
 features:
   - keys

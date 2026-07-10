@@ -17,7 +17,7 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
-board: [ "adafruit_feather_nrf52840" ]
+board: [ "nice_nano_v2" ]
 shield: [ "kxn_hitbox" ]
 include:
   - board: nice_nano
