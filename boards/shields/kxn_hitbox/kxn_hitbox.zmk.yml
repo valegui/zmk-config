@@ -1,0 +1,9 @@
+file_format: "1"
+id: kxn_hitbox
+name: KXN Hitbox
+type: shield
+url: https://github.com/valegui
+requires:
+  - makerdiary_nrf52840_m2
+features:
+  - keys

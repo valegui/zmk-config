@@ -1,0 +1,2 @@
+config SHIELD_KXN_HITBOX
+    def_bool $(shields_list_contains,kxn_hitbox)

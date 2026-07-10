@@ -1,0 +1,6 @@
+if SHIELD_KXN_HITBOX
+
+config ZMK_KEYBOARD_NAME
+    default "kxn_hitbox"
+
+endif # SHIELD_KXN_HITBOX
