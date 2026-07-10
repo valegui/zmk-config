@@ -17,4 +17,8 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
----
+board: [ "makerdiary_nrf52840_m2" ]
+shield: [ "kxn_hitbox" ]
+include:
+  - board: nice_nano
+    shield: kxn_hitbox
